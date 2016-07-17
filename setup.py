@@ -9,7 +9,7 @@ from setuptools import setup
 
 APP = ['save.py']
 DATA_FILES = []
-OPTIONS = {'argv_emulation': True, 'iconfile': './a.ico'}
+OPTIONS = {'argv_emulation': True, 'iconfile': '/Users/fatihaktas/Sites/FastPathShower/a.ico'}
 
 setup(
     app=APP,
